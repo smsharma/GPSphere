@@ -1,6 +1,6 @@
 # GPSphere
 
-Simple example of Gaussian process regression on a sphere, using the _Gaia_ DR2 quasars. Code originally by Timothy Brandt (UCSB). 
+Simple example of Gaussian process regression on a sphere, using the _Gaia_ DR2 quasars. Code originally by Timothy Brandt (UCSB) (contact at tbrandt at ucsb dot edu). Development started at the Gaia Sprint 2019 at KITP, Santa Barbara.
 
 Notebooks:
 - `make_quasar_maps.ipynb`: Create the error-weighed-mean _Gaia_ DR2 quasar proper motions map along with associated uncertainties.
